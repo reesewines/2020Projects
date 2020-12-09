@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RitzyCheeseBurger</string>
+    <string name="pickle">Pickle</string>
+    <string name="onion">Onion</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="tomato">Tomato</string>
+    <string name="cheese">Cheese</string>
+    <string name="mustard">Mustard</string>
+    <string name="ketchup">Ketchup</string>
+</resources>
